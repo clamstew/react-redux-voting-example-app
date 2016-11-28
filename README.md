@@ -1,0 +1,1 @@
+my practice coding of this tutorial - https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html - changed or updated anything that threw an error since the tutorial was written
